@@ -1,8 +1,8 @@
-# Exno.6 - Prompt Engineering
-### Register No: 212222040117
+# Exno.6 - Development of Python Code Compatible with Multiple AI Tools
+### Register No: 212222220049
 
 ## Aim:
-Development of Python Code Compatible with Multiple AI Tools
+To develop a Python Code Compatible with Multiple AI Tools
 
 ---
 
